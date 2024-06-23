@@ -54,7 +54,9 @@ Text-to-speech (TTS) is a very popular assistive technology it converts any text
 
 ## Demo
 
-https://github.com/itsyogieu/Text-To-Speech-GUI-Application/assets/82885288/4168d1be-8f46-4cdf-a885-ce1edb4e5df6
+https://github.com/itsyogieu/Text-To-Speech-GUI-Application/assets/82885288/d1d29d3b-fe31-4df9-b538-45478c9e041b
+
+
 
 
 
